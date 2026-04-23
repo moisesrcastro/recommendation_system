@@ -27,7 +27,7 @@ Projeto de um sistema de recomendação de produtos baseado em embeddings e carr
 - SQLAlchemy  
 
 ## Estrutura
-
+```
 src/
 ├── database/
 │ ├── connection.py
@@ -37,4 +37,4 @@ src/
 │ ├── model.py
 │
 app.py
-## Estrutura
+```
